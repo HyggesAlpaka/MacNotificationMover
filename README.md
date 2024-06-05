@@ -8,8 +8,8 @@ This script will move the notifications down by 150px.
 1. Choose `App` as preset
 1. Search for `AppleScript` and add it to the program
 1. Add the contents of the `script.scpt` file in this Repo to the `AppleScript` block
-1. Save your programm
-1. Launch your saved app from the finder once and accept the request to control System Events. After that, the programm also needs to be allowed for `Security & Privacy` > `Accessibility`
+1. Save your program
+1. Launch your saved app from the finder once and accept the request to control System Events. After that, the program also needs to be allowed for `Security & Privacy` > `Accessibility`
 1. Open the mac settings and search for `login items` and add the app to the `open on launch`
 
 ## Modify
@@ -19,7 +19,7 @@ You can also use some calculations and variables to set the position more relati
 
 
 ## Testing
-You can open a second automator, where you add a `notification` block and trigger it everytime you have changed your notification mover. (In case you're in the "do not disturbe mode": disable it)
+You can open a second automator, where you add a `notification` block and trigger it every time you have changed your notification mover. (In case you're in the "do not disturb mode": disable it)
 
 
 ## Credits
